@@ -1,6 +1,6 @@
 {
-    "name": "ehfaz-adnan/ehfaz-first-package",
-    "description": "This is a starter package",
+    "name": "ehfaz-adnan/power-calculator",
+    "description": "This is a powerCalculator package",
     "license": "MIT",
     "authors": [
         {
@@ -18,12 +18,12 @@
     },
     "autoload": {
         "psr-4": {
-            "ehfazAdnan\\PhpPackageStructure\\": "src"
+            "ehfazAdnan\\PowerCalculator\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "ehfazAdnan\\PhpPackageStructure\\Tests\\": "tests"
+            "ehfazAdnan\\PowerCalculator\\Tests\\": "tests"
         }
     },
     "scripts": {
