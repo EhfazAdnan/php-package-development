@@ -9,7 +9,7 @@
 ## Clone Package
 
 ```bash
-git clone https://github.com/thetestcoder/php-package-structure project-name
+git clone https://github.com/EhfazAdnan/php-package-development.git project-name
 ```
 
 ## Change After Clone
